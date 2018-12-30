@@ -6,5 +6,6 @@ The steps for the detection where: Blur -> Canny filter (edge detection) -> Houg
 
 Here's a photo that shows how it works :)
 
+![Screenshot](Demo.png)
 
 
